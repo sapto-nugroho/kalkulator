@@ -2,7 +2,7 @@
 int main() {
     char op;
     float num1, num2;
-    printf("Masukkan operator (+, -, *,): ");
+    printf("Masukkan operator (+, -, *,/): ");
     scanf("%c", &op);
     printf("Masukkan angka pertama: ");
     scanf("%f", &num1);
